@@ -1,0 +1,7 @@
+name = "MinGA"
+uuid = "18ad9c71-8823-4f82-aa20-37d259a67681"
+authors = ["pedrosecchi67 <pedrosecchimail@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
